@@ -1,2 +1,2 @@
 # docker_lambda
-Dockerized AWS Lambda
+Code for my blogpost article: "Running AWS Lambda written in Java with Docker"
